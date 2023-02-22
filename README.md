@@ -6,3 +6,4 @@
 ## Run below two commands. They will remove all files and then readd them respecting gitignore rules
 ## git rm -rf --cached .
 ## git add .
+## git rm --cached -f package-lock.json
